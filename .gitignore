@@ -1,0 +1,12 @@
+.idea/
+*.pyc
+mx_crm/reports/*.xlsx
+data
+local.py
+dbs
+logs/*.log
+env.sh
+proxylist.txt
+*.log
+*.xlsx
+mx_crm/
